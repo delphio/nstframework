@@ -1,3 +1,6 @@
 Sample code and usage
+Web blog adress
 
-http://www.nstframework.com
+http://framework.netsasoft.com
+https://github.com/delphio/nstframework
+
